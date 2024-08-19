@@ -1,0 +1,1 @@
+console.log("Archivo añadido al stage")
